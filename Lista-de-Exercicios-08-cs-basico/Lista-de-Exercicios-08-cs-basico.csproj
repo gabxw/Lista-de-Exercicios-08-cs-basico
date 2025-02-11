@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lista_de_Exercicios_08_cs_basico.Exercicio01</StartupObject>
+    <StartupObject>Lista_de_Exercicios_08_cs_basico.Exercicio03</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

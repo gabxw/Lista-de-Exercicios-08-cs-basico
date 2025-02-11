@@ -10,6 +10,11 @@ namespace Lista_de_Exercicios_08_cs_basico
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Digite uma palavra");
+            string palavra = Console.ReadLine();
+            for (int i =0; i < palavra.Length; i++){
+                Console.WriteLine(palavra[i]);
+            }
         }
     }
 }
